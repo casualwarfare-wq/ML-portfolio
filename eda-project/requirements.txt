@@ -1,0 +1,5 @@
+#Main dependiences
+setuptools==81.0.0
+pandas==2.3.3
+sweetviz==2.3.3
+fg-data-profiling==4.19.1
