@@ -4,3 +4,4 @@ This repository is where I'll put all my ML projects and scripts on my journey t
 Links to projects:
 - EDA project: https://github.com/casualwarfare-wq/eda-project
 - Bash pipline: https://github.com/casualwarfare-wq/Bash-Automation
+- Normal Equation Demo: https://github.com/casualwarfare-wq/Normal_Equations_demo
