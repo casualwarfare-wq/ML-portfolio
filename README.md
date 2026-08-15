@@ -5,3 +5,4 @@ Links to projects:
 - EDA project: https://github.com/casualwarfare-wq/eda-project
 - Bash pipline: https://github.com/casualwarfare-wq/Bash-Automation
 - Normal Equation Demo: https://github.com/casualwarfare-wq/Normal_Equations_demo
+- SQL+API: https://github.com/casualwarfare-wq/SQL-API
