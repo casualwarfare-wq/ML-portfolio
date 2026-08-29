@@ -6,3 +6,4 @@ Links to projects:
 - Bash pipline: https://github.com/casualwarfare-wq/Bash-Automation
 - Normal Equation Demo: https://github.com/casualwarfare-wq/Normal_Equations_demo
 - SQL+API: https://github.com/casualwarfare-wq/SQL-API
+- Leakage Safe Pipeline: https://github.com/casualwarfare-wq/Leakage-Safe_Pipline 
