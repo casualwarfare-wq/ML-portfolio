@@ -2,6 +2,7 @@
 This repository is where I'll put all my ML projects and scripts on my journey to master ML.
 
 ## Links to projects:
+- Regression Experiment: https://github.com/casualwarfare-wq/Regression-warmup
 - EDA project: https://github.com/casualwarfare-wq/eda-project
 - Bash pipline: https://github.com/casualwarfare-wq/Bash-Automation
 - Normal Equation Demo: https://github.com/casualwarfare-wq/Normal_Equations_demo
